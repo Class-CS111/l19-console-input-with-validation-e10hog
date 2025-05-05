@@ -142,6 +142,4 @@ public class NetflixOriginal
           this.starRating == other.starRating &&
           this.genre.equals(other.genre);
   }
-
-
 }
